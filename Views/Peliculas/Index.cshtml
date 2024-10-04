@@ -1,0 +1,44 @@
+﻿
+@model IEnumerable<Tp_Peliculas.Models.Pelicula>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/Estilo.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <h1 style="text-align: center;">PELICULAS</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">CARGAR NUEVA PELICULA</a>
+    </p>
+
+    <div class="movie-grid">
+        @foreach (var item in Model)
+        {
+            <div class="movie-card">
+                <td>
+                    @if (!string.IsNullOrEmpty(@item.Portada))
+                    {
+                        <a asp-action ="Details" asp-route-id="@item.Id"><img src="~/fotografias/@item.Portada" alt="@item.Titulo" class="movie-poster" /></a>
+                    }
+                </td>
+                <h3>@Html.DisplayFor(modelItem => item.Titulo)</h3>
+                <p>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="edit-btn">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="delete-btn">Borrar</a>
+                </p>
+            </div>
+        }
+    </div>
+
+</body>
+</html>

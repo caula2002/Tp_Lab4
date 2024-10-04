@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.movie-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.movie-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.movie-poster {
+    width: 100%;
+    height: auto;
+}
+
+.movie-card h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.edit-btn, .delete-btn {
+    width: 80px;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.edit-btn {
+    background-color: #4CAF50;
+}
+
+.delete-btn {
+    background-color: #f44336;
+}
+
+h1 {
+    text-align: center;
+    color: #1E90FF;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }

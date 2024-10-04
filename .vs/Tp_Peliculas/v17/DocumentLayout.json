@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\peliculas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\peliculas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\generoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\generoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|c:\\users\\notebook\\onedrive\\escritorio\\tp_peliculas\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4832649A-124B-47BB-8DDC-EC415477A05E}|Tp_Peliculas.csproj|solutionrelative:views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Peliculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Peliculas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Peliculas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Peliculas\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:12:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Peliculas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Peliculas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Peliculas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Peliculas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:12:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:10:48.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Generoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Generoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Generoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Generoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:09:50.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:08:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:07:16.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:06:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:06:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\Tp_Peliculas\\Views\\Actors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T01:05:19.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
